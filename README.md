@@ -9,7 +9,7 @@ tell us how yours goes: washburneaudiolab@gmail.com.
 
 ## Download
 
-Windows 10 or 11 (64-bit): **[MixMason-Setup-1.0.1.exe](https://github.com/washburneaudiolab-source/mixmason/releases/latest)** from the latest release.
+Windows 10 or 11 (64-bit): **[MixMason-Setup-1.0.2.exe](https://github.com/washburneaudiolab-source/mixmason/releases/latest)** from the latest release.
 
 Your mixer connected to the computer by USB.
 
